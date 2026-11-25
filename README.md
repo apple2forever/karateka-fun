@@ -93,6 +93,10 @@ Approaching in fighting stance retains the original fatal-kick behavior.
 
 Defeating Akuma leads to the Mariko duel. You can also start it directly with `%`.
 
+![Mariko Duel Beta gameplay](screenshots/karateka-mariko-duel.gif)
+
+*Actual combat footage — 560×384, vertical scale 2×, normal playback speed.*
+
 - Stay in **fighting stance** and Mariko will approach and attack.
 - Switch to a **relaxed stance, with your arms lowered**, and Mariko stops attacking. She finishes her current step, then holds out her arms and waits for an embrace.
 - Return to **fighting stance** to resume the duel.
